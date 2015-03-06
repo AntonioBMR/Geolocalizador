@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Localización Android</string>
+    <string name="esperando">esperando datos...</string>
+    <string name="posicion_actual">Posición Actual:</string>
+    <string name="activar">Guardar</string>
+    <string name="borrar">Borrar</string>
+    <string name="editar">Editar</string>
+    <string name="opciones">Opciones</string>
+    <string name="direccion">La dirección actual es: </string>
+    <string name="ubicacion">La ubicación actual es: </string>
+
+
+    <string name="desactivar">Desactivar</string>
+    <string name="estado_proveedor">Estado proveedor:</string>
+
+</resources>
