@@ -226,6 +226,7 @@ private TextView messageTextView2;
             this.mainActivity.setLocation(loc);
         }
 
+
         @Override
         public void onProviderDisabled(String provider) {
             messageTextView.setText("GPS Desactivado");
